@@ -1,2 +1,0 @@
-# NCKU-ICLAB
-IC Contest 2011
