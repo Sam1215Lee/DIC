@@ -1,0 +1,16 @@
+Z:/NCKULAB/DIC2023/HW2/file/tb.v {1 {vlog -work work -novopt -stats=none Z:/NCKULAB/DIC2023/HW2/file/tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module rails
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}} Z:/NCKULAB/DIC2023/HW2/file/rails_1.v {1 {vlog -work work -novopt -stats=none Z:/NCKULAB/DIC2023/HW2/file/rails_1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module rails
+
+Top level modules:
+	rails
+
+} {} {}}
