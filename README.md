@@ -1,3 +1,9 @@
-# NCKU-ICLAB
+# DIGITAL IC DESIGN
 
-- 1. DIITAL IC DESIGN 2023
+## HW1
+
+## HW2
+
+## HW3
+
+
