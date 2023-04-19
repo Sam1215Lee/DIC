@@ -1,0 +1,23 @@
+C:/Users/PCUSER/Desktop/DIC/dic_hw/file/MMS_tb.v {1 {vlog -work work -novopt -stats=none C:/Users/PCUSER/Desktop/DIC/dic_hw/file/MMS_tb.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MMS_tb
+
+Top level modules:
+	MMS_tb
+
+} {} {}} C:/Users/PCUSER/Desktop/DIC/dic_hw/file/MMS_4num.v {1 {vlog -work work -novopt -stats=none C:/Users/PCUSER/Desktop/DIC/dic_hw/file/MMS_4num.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MMS_4num
+
+Top level modules:
+	MMS_4num
+
+} {} {}} C:/Users/PCUSER/Desktop/DIC/dic_hw/file/MMS_8num.v {1 {vlog -work work -novopt -stats=none C:/Users/PCUSER/Desktop/DIC/dic_hw/file/MMS_8num.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module MMS_4num
+-- Compiling module MMS_8num
+
+Top level modules:
+	MMS_8num
+
+} {} {}}
