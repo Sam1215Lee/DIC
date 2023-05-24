@@ -1,13 +1,13 @@
 # DIGITAL IC DESIGN NCKU 
   Teacher : Professor Chen Pei Yin
 ## HW1
-  - Max-Min Selector 
+  ### Max-Min Selector 
 ## HW2
-  - Rails
+  ### Rails
 ## HW3
-  - Arithmetic Expression Calculator
+  ### Arithmetic Expression Calculator
 ## HW4
-  - Atrous Convolution
+  ### Atrous Convolution
    1. Image input
    2. Replicate padding twice
    3. Convolution with kernal's stride = 1 and diliation = 2
@@ -18,3 +18,5 @@
    8. Round up
    9. Write into designated memory
    10. Validate design by writting python test script
+  ### Result
+  ![Alt Text]([https://github.com/Sam1215Lee/Image-Processing/blob/main/HtperCSI/result/Muscovite.png](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/bleach.png))
