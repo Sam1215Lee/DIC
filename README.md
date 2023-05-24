@@ -6,6 +6,11 @@
   ### Rails
 ## HW3
   ### Arithmetic Expression Calculator
+   1. Read arithmetic
+   2. Infix to postfix (by stack)
+   3. Calculation
+   4. Output answer
+   
 ## HW4
   ### Atrous Convolution
    1. Image input
