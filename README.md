@@ -20,5 +20,5 @@
    10. Validate design by writting python test script
   ### Result
      #### Orignial
-     ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/bleach.png)
+  ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/bleach.png)
   
