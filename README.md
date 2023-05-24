@@ -23,3 +23,7 @@
    ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/bleach.png)
    #### 2. Resized
    ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/resizedImg.png)
+   #### 3. Layer0 Output
+   ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/layer0_outputImg.png)
+   #### 4. Layer1 Output
+   ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/layer1_outputImg.png)
