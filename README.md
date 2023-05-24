@@ -19,6 +19,7 @@
    9. Write into designated memory
    10. Validate design by writting python test script
   ### Result
-   #### Orignial
-  ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/bleach.png)
-  
+   #### 1. Orignial
+   ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/bleach.png)
+   #### 2. Resized
+   ![Alt Text](https://github.com/Sam1215Lee/DIC/blob/main/HW4/images/resizedImg.png)
